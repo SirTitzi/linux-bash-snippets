@@ -1,2 +1,3 @@
 # linux-bash-snippets
-Simple bash scripts for linux
+
+Exemplary bash scripts for linux
